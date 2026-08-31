@@ -1,0 +1,47 @@
+============================================================
+                    A SEGUIR - CONTEXTO
+============================================================
+
+Esse é um exércicio dado a mim para resolução em aula de backend.
+O foco é a utilização de de tecnologias como
+
+
+============================================================
+EXERCÍCIO 1 — SISTEMA DE BIBLIOTECA
+============================================================
+
+Uma biblioteca deseja desenvolver um sistema para controlar
+seus livros e usuários.
+
+Cada livro possui:
+
+- título
+- autor
+- ISBN
+- ano de publicação
+- quantidade disponível
+
+Cada usuário possui:
+
+- nome
+- CPF
+- matrícula
+- email
+
+O usuário pode realizar empréstimos de livros.
+
+Um empréstimo deve registrar:
+
+- data do empréstimo
+- data de devolução
+- livro
+- usuário
+
+O sistema deve permitir:
+
+- Cadastrar livros.
+- Cadastrar usuários.
+- Realizar empréstimos.
+- Registrar devoluções.
+- Consultar os livros disponíveis.
+- Consultar os empréstimos realizados.
